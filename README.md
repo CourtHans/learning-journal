@@ -26,8 +26,7 @@ __A few examples:__
 -	`*This text will be italic*` will show up up like this:*This text will be italic.*
 - Inserting a `>` will give you indented blockquotes. Entering this text on a new line: `>"Failure to prepare is preparing to fail."` will result in this rendering:
 >"Failure to prepare is preparing to fail."
--	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url. 
->`[Google](www.google.com)` will show up like this -> [Google](www.google.com)
+-	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url. `[Google](www.google.com)` will show up like this -> [Google](www.google.com)
 
 GitHub pages provide a simple, elegant solution for sharing your work, collaborating with teams on a project, and document progress. For further customization, you can employ Jekyll. You can visit [https://pages.github.com/](https://pages.github.com/) to learn more.
 
