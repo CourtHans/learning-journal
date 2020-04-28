@@ -18,6 +18,7 @@ Remember:
 
 Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4).
 
+Hello, my name is Courtney Hans. I'm a California native who loves the cooler climate here in Washington! I'm an insatiably curious person and am looking forward to learning so much in Code 102!
 
 ### Class 01: Markdown
 Markdown is a "lightweight markup language" that allows us to work quickly and “makes styled collaborative editing easy.” Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` and `*`. What can you do when you’re stuck or can’t remember how to markup for a certain desired result? [Google](www.google.com) it, of course. 
