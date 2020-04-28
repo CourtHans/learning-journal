@@ -2,6 +2,8 @@
 
 In my opinion, a concept that is **central** to the idea of a growth mindset is failure. As a society, we’re so driven toward success and enviable accomplishments, that it can be easy to forget that it’s nearly impossible to achieve any modicum of success without failure. We’re not born knowing how to do things, we’re born with an insatiable curiosity that – if we’re not careful – can be overshadowed by the desire for comfort. Failure is the best teacher: it is visceral, personal, and – with a growth mindset – motivating.
 
+![Failure picture](https://cdn.pixabay.com/photo/2019/05/14/13/40/fear-4202417_960_720.jpg)
+
 Remember:
 >Failure creates the same amount of progress as success!
 
