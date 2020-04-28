@@ -35,8 +35,8 @@ GitHub pages provide a simple, elegant solution for sharing your work, collabora
 Research for tomorrow: which is better for a numbered list – using the same numeral (all “1s”) or using the proper ordinals (1, 2, 3) and why?
 
 _Homework_
--	[x] Experiment with markup
--	[ ] Read ahead
+[x] Experiment with markup
+[ ] Read ahead
 -	[ ] Research lists
 -	[ ] Write down/bring questions to class
 -	[ ] Take quiz
