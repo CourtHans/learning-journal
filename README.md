@@ -4,7 +4,7 @@ In my opinion, a concept that is **central** to the idea of a growth mindset is 
 
 ![Failure picture](https://cdn.pixabay.com/photo/2019/05/14/13/40/fear-4202417_960_720.jpg)
 
-However, it's important to remember that we’re not born knowing how to do things. We __are__ born with an insatiable curiosity. As we grow older, that curiosity tends to be overshadowed by the desire for comfort. Hot tip: the more you step outside your comfort zone, ___the bigger it becomes___. 
+It's important to remember that we’re not born knowing how to do things. We __are__, however, born with insatiable curiosity. As we grow older, that curiosity tends to be overshadowed by the desire for comfort. Hot tip: the more you step outside your comfort zone, ___the bigger it becomes___. 
 
 Failure is the best teacher: it is visceral, personal, and – with a growth mindset – motivating.
 
