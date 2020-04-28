@@ -23,9 +23,9 @@ Although when you need a break, it *can* be entertaining to watch [Funny Fail Vi
 Markdown is a "lightweight markup language" that allows us to work quickly and “makes styled collaborative editing easy.” Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` and `*`. What can you do when you’re stuck or can’t remember how to markup for a certain desired result? [Google](www.google.com), of course. 
 
 __A few examples:__
--	`*This text will be italic*` will shoup up like this: *This text will be italic.*
+-	`*This text will be italic*` will show up up like this:*This text will be italic.*
+- Inserting a `>` will give you indented blockquotes. Entering this: `>"Failure to prepare is preparing to fail."` Will result in this: >"Failure to prepare is preparing to fail."
 -	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url.
-
 *Example* 
 >`[Google](www.google.com)` will show up like this [Google](www.google.com),
 
@@ -34,9 +34,9 @@ GitHub pages provide a simple, elegant solution for sharing your work, collabora
 Research for tomorrow: which is better for a numbered list – using the same numeral (all “1s”) or using the proper ordinals (1, 2, 3) and why?
 
 _Homework_
+-	[x] Experiment with markup
 -	[ ] Read ahead
 -	[ ] Research lists
--	[x] Experiment with markup
--	[ ] write down/bring questions to class
--	[ ] take quiz
+-	[ ] Write down/bring questions to class
+-	[ ] Take quiz
 
