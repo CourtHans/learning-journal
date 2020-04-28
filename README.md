@@ -36,7 +36,8 @@ Research for tomorrow: which is better for a numbered list – using the same nu
 
 _Homework_
 - [x] Experiment with markup
+-	[x] Take quiz
 - [ ] Read ahead
 -	[ ] Research lists
 -	[ ] Write down/bring questions to class
--	[ ] Take quiz
+
