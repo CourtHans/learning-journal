@@ -1,4 +1,4 @@
-#Courtney's Learning Journal
+# Courtney's Learning Journal
 
 ## Growth mindset
 
