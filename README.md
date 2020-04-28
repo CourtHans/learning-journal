@@ -40,4 +40,3 @@ _Homework_
 -	[ ] Research lists
 -	[ ] Write down/bring questions to class
 -	[ ] Take quiz
-
