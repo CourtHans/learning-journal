@@ -16,9 +16,27 @@ Remember:
 2. Persisting in the face of obstacles
 3. Being comfortable with discomfort
 
-Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4). :high_brightness:
+Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4).
 
 
 ### Class 01: Markdown
+Markdown is a "lightweight markup language" that allows us to work quickly and “makes styled collaborative editing easy.” Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` and `*`. What can you do when you’re stuck or can’t remember how to markup for a certain desired result? [Google](www.google.com), of course. 
 
-Markdown is a "lightweight markup language" that allows us to work quickly. 
+__A few examples:__
+-	`*This text will be italic*` will shoup up like this: *This text will be italic.*
+-	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url.
+
+*Example* 
+>`[Google](www.google.com)` will show up like this [Google](www.google.com),
+
+GitHub pages provide a simple, elegant solution for sharing your work, collaborating with teams on a project, and document progress. For further customization, you can employ Jekyll. You can visit [https://pages.github.com/](https://pages.github.com/) to learn more.
+
+Research for tomorrow: which is better for a numbered list – using the same numeral (all “1s”) or using the proper ordinals (1, 2, 3) and why?
+
+_Homework_
+-	[ ] Read ahead
+-	[ ] Research lists
+-	[x] Experiment with markup
+-	[ ] write down/bring questions to class
+-	[ ] take quiz
+
