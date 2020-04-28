@@ -12,6 +12,11 @@ Remember:
 2. Persisting in the face of obstacles
 3. Being comfortable with discomfort
 
-The more you step outside your comfort zone, the bigger it becomes.
+The more you step outside your comfort zone, ___the bigger it becomes___.
 
 Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4).
+
+
+### Class 01: Markdown
+
+Markdown is a "lightweight markup language" that allows us to work quickly. 
