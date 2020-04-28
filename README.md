@@ -41,4 +41,3 @@ _Homework_
 - [ ] Read ahead
 -	[ ] Research lists
 -	[ ] Write down/bring questions to class
-
