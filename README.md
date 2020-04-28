@@ -24,11 +24,11 @@ Markdown is a "lightweight markup language" that allows us to work quickly and â
 
 __A few examples:__
 -	`*This text will be italic*` will show up up like this:*This text will be italic.*
+-	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url. `[Google](www.google.com)` will show up like this -> [Google](www.google.com)
 - Inserting a `>` will give you indented blockquotes. Entering this text on a new line: `>"Failure to prepare is preparing to fail."` will result in this rendering:
 >"Failure to prepare is preparing to fail."
--	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url. `[Google](www.google.com)` will show up like this -> [Google](www.google.com)
 
-In keeping with a growth mindset, I intend to keep practicing, trying out crazy stuff, seeing what works and what doesn't, and asking my teacher (yay Ryan!), TA (yay Adrienne), and classmates for help when I get stuck.
+In keeping with a growth mindset, I intend to keep practicing, trying out crazy stuff, seeing what works and what doesn't, and asking for help when I get stuck.
 
 GitHub pages provide a simple, elegant solution for sharing your work, collaborating with teams on a project, and document progress. For further customization, you can employ Jekyll. You can visit [https://pages.github.com/](https://pages.github.com/) to learn more.
 
