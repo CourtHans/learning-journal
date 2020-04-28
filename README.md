@@ -24,7 +24,7 @@ Markdown is a "lightweight markup language" that allows us to work quickly and â
 
 __A few examples:__
 -	`*This text will be italic*` will show up up like this:*This text will be italic.*
-- Inserting a `>` will give you indented blockquotes. Entering this: `>"Failure to prepare is preparing to fail."` Will result in this:
+- Inserting a `>` will give you indented blockquotes. Entering this text on a new line: `>"Failure to prepare is preparing to fail."` will result in this rendering:
 >"Failure to prepare is preparing to fail."
 -	To insert a hyperlink, employ box brackets `[ ]` around the text you wish to display, and parentheses `( )` around the url. 
 >`[Google](www.google.com)` will show up like this -> [Google](www.google.com)
