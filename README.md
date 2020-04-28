@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+#Courtney's Learning Journal
 
-You can use the [editor on GitHub](https://github.com/CourtHans/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Growth mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my opinion, a concept that is **central** to the idea of a growth mindset is failure. As a society, we’re so driven toward success and enviable accomplishments, that it can be easy to forget that it’s nearly impossible to achieve any modicum of success without failure. We’re not born knowing how to do things, we’re born with an insatiable curiosity that – if we’re not careful – can be overshadowed by the desire for comfort. Failure is the best teacher: it is visceral, personal, and – with a growth mindset – motivating.
 
-### Markdown
+Remember:
+>Failure creates the same amount of progress as success!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Keeping a growth mindset means:
+1. Staying open to all forms of feedback
+2. Persisting in the face of obstacles
+3. Being comfortable with discomfort
 
-```markdown
-Syntax highlighted code block
+The more you step outside your comfort zone, the bigger it becomes.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CourtHans/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4).
