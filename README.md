@@ -14,7 +14,7 @@ Remember:
 
 The more you step outside your comfort zone, ___the bigger it becomes___.
 
-Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4).
+Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4). :high_brightness:
 
 
 ### Class 01: Markdown
