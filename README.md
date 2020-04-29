@@ -41,3 +41,5 @@ _Homework_
 - [ ] Read ahead
 -	[ ] Research lists
 -	[ ] Write down/bring questions to class
+
+[Link to Class 2 notes](tools-terminal.md)
