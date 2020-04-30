@@ -1,4 +1,6 @@
-### Class 01: Markdown
+[Table of Contents](README.md)
+
+# Class 1: Markdown
 Markdown is a "lightweight markup language" that allows us to work quickly and “makes styled collaborative editing easy.” Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` and `*`. What can you do when you’re stuck or can’t remember how to markup for a certain desired result? [Google](www.google.com) it, of course. 
 
 __A few examples:__
@@ -23,5 +25,3 @@ _Homework_
 [Previous - Growth Mindset](growth-mindset.md)
 
 [Next - Tools & Terminal Notes](tools-terminal.md)
-
-[Table of Contents](README.md)

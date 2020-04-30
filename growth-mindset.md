@@ -1,4 +1,6 @@
-## Growth mindset
+[Table of Contents](README.md)
+
+# Class 1: Growth mindset
 
 In my opinion, a concept that is **central** to the idea of a growth mindset is failure. As a society, we’re so driven toward success and enviable accomplishments, that it can be easy to forget that it’s nearly impossible to achieve any modicum of success without failure. We know this, and yet, we're still afraid.
 
@@ -21,5 +23,3 @@ Although when you need a break, it *can* be entertaining to watch [Funny Fail Vi
 Hello, my name is Courtney Hans. I'm a California native who loves the cooler climate here in Washington! I'm an insatiably curious person and am looking forward to learning so much in Code 102! Here's a link to my [GitHub profile page](https://github.com/CourtHans).
 
 [Next - Markdown notes](markdown-notes.md)
-
-[Table of Contents](README.md)

@@ -1,8 +1,10 @@
-## Class 3 – Git v. Github
+[Return to Table of Contents](README.md)
+
+# Class 3: Git v. Github
 
 [Link to source material](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-*key words:*
+*Key words:*
 - VCS
 - Git vs. Github
 - local vs remote
@@ -96,5 +98,3 @@ remote3 https://github.com/remote3/example (push)
 ```
 
 [Previous - Tools & Terminal Notes](tools-terminal.md)
-
-[Return to Table of Contents](README.md)
