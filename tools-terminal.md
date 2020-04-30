@@ -1,6 +1,6 @@
 [Table of Contents](README.md)
 
-# Class 2: The Coder's Computer
+# Class 2: Toos and Terminals
 
 ## Text Editors
 

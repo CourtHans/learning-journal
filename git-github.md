@@ -51,11 +51,7 @@ The local Git repository has three components:
 
 Files are *tracked* or *untracked*. 
 
-To check file status...
-
-Utilize the `git status` command.
-
-Tracking and Staging a New File 
+To check file status, utilize the `git status` command.
 
 Track one file only - `git add filename`
 
@@ -80,7 +76,8 @@ To view the short names, such as “origin” you can run the `git remote` comma
 
 Using `git remote –v` you can view all the remote URLs next to their corresponding short names
 
-```$ cd example
+```
+$ cd example
 
 $ git remote -v
 
