@@ -64,6 +64,6 @@ The command line has a nice little mechanism to help us in this respect. It's ca
 
 [Previous - Markdown notes](markdown-notes.md)
 
-[Next - Git v GitHub](git-github.md)
+[Next - Git v. GitHub](git-github.md)
 
 [Table of Contents](README.md)
