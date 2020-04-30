@@ -94,6 +94,7 @@ remote3 https://github.com/remote3/example (fetch)
 
 remote3 https://github.com/remote3/example (push)
 ```
+
 [Previous - Git v GitHub](git-github.md)
 
 [Return to Table of Contents](README.md)
