@@ -95,3 +95,5 @@ remote3 https://github.com/remote3/example (push)
 ```
 
 [Previous - Tools & Terminal Notes](tools-terminal.md)
+
+[Next - Class 3 Stretch](lab03-stretch.md)

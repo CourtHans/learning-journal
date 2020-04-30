@@ -1,6 +1,6 @@
 [Table of Contents](README.md)
 
-# Class 2: Toos and Terminals
+# Class 2: Tools and Terminals
 
 ## Text Editors
 
