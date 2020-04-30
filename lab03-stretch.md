@@ -5,7 +5,7 @@
 **Lab 03 Stretch Goals**
 > *What did this exercise teach you? Add an additional page to your learning journal site to document your learnings.*
 
-As I wrapped up my changes in Lab 03 and (*internally*) celebrated my successful A-C-P, I realized I had a few errors (a missed "." here, a different-sized header there, etc.). I went back in to VSCode to edit and pushed changes again with a message akin to "a few more changes" (and again celebrated the success change).
+As I wrapped up my changes in Lab 03 and (*internally*) celebrated my successful A-C-P, I realized I had a few errors (a missed "." here, a different-sized header there, etc.). I went back in to VSCode to edit and pushed changes again with a message akin to "a few more changes" (and again celebrated the successful change).
 
 Then I realized I wanted to add some additional navigation features to my page to improve the reader's experience. I added a [Table of Contents link](README.md) to the top of each page as well as linking the previous and next posts at the bottom of each page.
 
