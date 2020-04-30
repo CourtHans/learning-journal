@@ -1,4 +1,4 @@
-## Class 3 – Git v Github
+## Class 3 – Git v. Github
 
 [Link to source material](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
@@ -94,3 +94,6 @@ remote3 https://github.com/remote3/example (fetch)
 
 remote3 https://github.com/remote3/example (push)
 ```
+[Previous - Git v GitHub](git-github.md)
+
+[Return to Table of Contents](README.md)

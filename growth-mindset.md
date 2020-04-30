@@ -19,3 +19,7 @@ Remember:
 Although when you need a break, it *can* be entertaining to watch [Funny Fail Videos on YouTube](https://www.youtube.com/watch?v=2aK8hy50fS4).
 
 Hello, my name is Courtney Hans. I'm a California native who loves the cooler climate here in Washington! I'm an insatiably curious person and am looking forward to learning so much in Code 102! Here's a link to my [GitHub profile page](https://github.com/CourtHans).
+
+[Next - Markdown notes](markdown-notes.md)
+
+[Table of Contents](README.md)

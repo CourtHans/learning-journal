@@ -19,3 +19,9 @@ _Homework_
 - [ ] Read ahead
 -	[ ] Research lists
 -	[ ] Write down/bring questions to class
+
+[Previous - Growth Mindset](growth-mindset.md)
+
+[Next - Tools & Terminal Notes](tools-terminal.md)
+
+[Table of Contents](README.md)

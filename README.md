@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Growth Mindset](growth-mindset.md)
-- [Markdown notes](markdown-notes.md)
-- [Tools & Terminal Notes](tools-terminal.md)
-- [Git v GitHub](git-github.md)
+- [Day 1 - Growth Mindset](growth-mindset.md)
+- [Day 1 - Markdown notes](markdown-notes.md)
+- [Day 2 - Tools & Terminal Notes](tools-terminal.md)
+- [Day 3 - Git v GitHub](git-github.md)

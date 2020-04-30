@@ -61,3 +61,9 @@ The command line has a nice little mechanism to help us in this respect. It's ca
 **file**- obtain information about what type of file a file or directory is.
 
 **ls -a** - List the contents of a directory, including hidden files.
+
+[Previous - Markdown notes](markdown-notes.md)
+
+[Next - Git v GitHub](git-github.md)
+
+[Table of Contents](README.md)
