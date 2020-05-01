@@ -34,3 +34,5 @@ Et voila!
 Fin
 
 [Previous - Git v. GitHub](git-github.md)
+
+[Next - HTML notes](html-notes.md)
