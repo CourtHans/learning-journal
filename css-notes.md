@@ -2,7 +2,7 @@
 
 # Class 5: CSS Notes
 
-## CSS - an introduction
+### CSS - an introduction
 
 CSS - cascading style sheet
 
@@ -23,7 +23,7 @@ You can use several properties in a single declaration.
 
 You can force a lot of properties to inherit values from their parent elements by using inherit for the value of the properties.
 
-## Color
+### Color
 
 [Adobe Color Tool link](https://color.adobe.com/create)
 
