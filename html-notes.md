@@ -74,3 +74,5 @@ The `<iframe>` element  allows you to cut a little "window" into your page to se
 The `<meta>` element "lives inside the `<head>` element and contains information about the web page. It is not visible to users but is used for other purposes like telling search engines about your page. It is an empty element, so does not have a closing tag. 
 
 [Previous - Class 3 Stretch](lab03-stretch.md)
+
+[Next - CSS notes](css-notes.md)
