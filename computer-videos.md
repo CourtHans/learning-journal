@@ -44,5 +44,6 @@ To display a letter of input (i.e. from your keyboard to your screen), a compute
 
 The **operating system** is the master program that manages how software uses the hardware of a computer. It's the operating system that is quickly controlling which programs have access to the computer's input and output systems. 
 
-
 [Previous - JavaScript notes](javascript-notes.md)
+
+[Next - Function Notes](function-notes.md)

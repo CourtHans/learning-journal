@@ -12,3 +12,4 @@ Nurturing my curiosity through Quarantine 2020 by learning how to code... welcom
 - [Day 5 - CSS notes](css-notes.md)
 - [Day 5 - JavaScript notes](javascript-notes.md)
 - [Day 6 - How Computers Work](computer-videos.md)
+- [Day 7 - Function Notes](function-notes.md)
