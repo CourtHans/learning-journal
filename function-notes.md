@@ -26,3 +26,5 @@ Pieces of information passed to a function are known as **parameters**.
 
 
 [Previous - How Computers Work](computer-videos.md)
+
+[Next - Loop Notes](loop-notes.md)
